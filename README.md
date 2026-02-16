@@ -1,2 +1,2 @@
-# Sign-In-and-Sign-out-form
-Make a Sign in and Sign out Form using React Js
+# Sign-In-and-Login-form
+Make a Sign in and Login Form using React Js
